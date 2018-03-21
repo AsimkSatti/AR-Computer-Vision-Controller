@@ -17,8 +17,10 @@ Run your python program after starting your AR in Unity
 The example I did found the center of my face or multiple faces and moved my 3D Objects on top.
 
 You can track or match anything you can with cv2's Computer Vision library to then Superimpose or interact with your enviroment
+Try chnaging out the haarcascades, or see what you can minipulate with other objects
+
 
 Modulator must be inside your OSC folders and then attatched to the OBJ
-
+The data would likely have to be scaled down to a factor where the values are meaningful in your Modulator
 Use the OSCHelper to track messages and debug.log in the console
  
