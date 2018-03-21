@@ -16,7 +16,7 @@ public class Modulator : MonoBehaviour {
     //add or delete more objects to manipulate
     public GameObject hatake;
     
-    //tester and New_data are used to modify the and debug the incoming data from strings to tester's data type
+    //tester and New_data are used to modify the incoming data and debug the incoming data from strings to tester's data type
     float tester;
     string New_data;
 
