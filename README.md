@@ -9,7 +9,7 @@ almost cinematic with essentially no limits then this is it.
 I leave the creativity to you, but this code is designed in mind that you already have OSC and the folders correctly 
 installed in Unity. If not go here ->https://github.com/jorgegarcia/UnityOSC
 
-All the python modules are accessible through pip, the AR enviroment and Computer Vision algo cannot run simultaneously
+All the python modules are accessible through pip, the game enviroment and Computer Vision algo can run simultaneously but not simultaneosly withthe AR camera
 *only one program per camera
 
 Run your python program after starting your AR in Unity
